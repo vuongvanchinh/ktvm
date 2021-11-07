@@ -32,3 +32,5 @@
 - **Hệ số sức mạnh cạnh tranh (e)** của doanh nghiệp (0 < e < 1) **e = (P - MC)/P**
 ## Độ co dãn cầu
 **Ep = (Q'p)P/Q** (Ep độ co dãn cầu theo p)
+## Lý thuyết cân bằng thị trường.
+
